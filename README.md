@@ -125,7 +125,7 @@ ielts-claude-skills/
 ### 全部安装（推荐）
 
 ```bash
-git clone https://github.com/YANZHANLIN/ielts-claude-skills.git
+git clone https://github.com/xilimala/EFL_skill.git
 cp -r ielts-claude-skills/ielts* ~/.claude/skills/
 ```
 
